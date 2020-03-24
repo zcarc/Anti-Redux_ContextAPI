@@ -1,7 +1,7 @@
 import React, { Fragment } from "react";
-import Header from "Components/Header";
+import Header from "../Header";
 import Flex from "styled-flex-component";
-import Notification from "Components/Notification";
+import Notification from "../Notification";
 
 const AppPresenter = () => (
   <Fragment>
